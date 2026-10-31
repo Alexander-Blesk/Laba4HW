@@ -42,6 +42,12 @@ int main() {
 
 <img width="504" height="70" alt="image" src="https://github.com/user-attachments/assets/c4ad60df-8e50-463c-985f-d8650906cf38" />
 
+Контрольный пример программы x=5, y=5
+
+Выход: 0
+
+<img width="508" height="65" alt="image" src="https://github.com/user-attachments/assets/856281a4-8315-465e-8baa-177ec683d60b" />
+
 # Информация о разработчике
 
 ФИО: Васянин Александр Сергеевич
